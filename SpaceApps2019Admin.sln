@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceApps2019Admin", "SpaceApps2019Admin\SpaceApps2019Admin.csproj", "{64738EA9-E438-4429-849D-503D344F9BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64738EA9-E438-4429-849D-503D344F9BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64738EA9-E438-4429-849D-503D344F9BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64738EA9-E438-4429-849D-503D344F9BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64738EA9-E438-4429-849D-503D344F9BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ECD24F0-ECF6-484C-871C-749D387C547E}
+	EndGlobalSection
+EndGlobal

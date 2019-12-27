@@ -1,0 +1,20 @@
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" "D:\Websites\New folder\Assets\catalog_extents.geojson" 
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\all_beam_modes_extents_vancouver.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p1.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p10.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p11.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p12.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p13.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p14.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p15.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p16.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p17.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p18.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p2.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p3.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p4.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p5.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p6.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p7.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p8.geojson" -append
+ogr2ogr -f "PostgreSQL" PG:"dbname=eodms_geo_metadata user=postgres password=sp@c3@pps" -nln public.catalog_extents "D:\Data\EODMS\extents\scn_extents_p9.geojson" -append

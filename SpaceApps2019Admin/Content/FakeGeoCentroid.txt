@@ -1,0 +1,28 @@
+﻿
+    {
+      "type": "Feature",
+      "properties": {
+        "SATELLITEP": "RADARSAT-1",
+        "ARCHIVE_FP": "CCMEO",
+        "RECEPTIONP": "GSS",
+        "DATEProper": "1998-01-28 13:36:55 GMT",
+        "BEAM_MODEP": "Standard 4",
+        "POLARIZATP": "HH",
+        "IMAGE_INFP": null,
+        "REASONProp": null,
+        "METADATAPr": "dummy value",
+        "SENSOR_MOP": "Standard",
+        "TITLEPrope": "rsat1_19980128_N5786W10910",
+        "END_DATEPr": "1998-01-28 13:37:12 GMT",
+        "OPTIONSPro": null,
+        "ORBIT_DIRP": "Descending",
+        "ORDERABLEP": "true",
+        "SERVICE_UP": "SERVICE-RSAT1_001-000000000000000000",
+        "LOOK_ORIEP": "Right",
+        "targettype": "DSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -109.104025852828045, 57.868858151907176 ]
+      }
+    }
